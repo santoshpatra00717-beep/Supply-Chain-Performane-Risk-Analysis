@@ -7,7 +7,7 @@ This project analyzes supply chain operations using **Python, SQL, and Microsoft
 The analysis focuses on warehouse performance, regional sales, delivery efficiency, profitability, and customer service metrics to support data-driven business decisions.
 ## 📊 Dashboard Preview
 
-![Supply Chain Dashboard](assets/dashboard_output.png)
+![Supply Chain Dashboard](assets/WhatsApp Image 2026-08-06 at 22.32.43.jpeg)
 ---
 
 ## 🎯 Business Problem
