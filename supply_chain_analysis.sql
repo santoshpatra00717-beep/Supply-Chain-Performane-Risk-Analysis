@@ -1,6 +1,6 @@
 /* =========================================================
 PROJECT: End-to-End Supply Chain Performance & Delivery Risk Analysis
-AUTHOR: Omm Prakash
+AUTHOR: Santosh Patra
 DIALECT NOTE:
 - MySQL 8.0+ compatible.
 - Uses CTEs and window functions supported in MySQL 8.0+.
